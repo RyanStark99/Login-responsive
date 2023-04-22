@@ -1,7 +1,7 @@
 :root{
     --main-color:#c08008;
-    --black:#13131a;
-    --bg:#010103;
+    --black:#1a1713;
+    --bg:#030201;
     --border: .1rem solid rgba(255,255,255,.3);
     --bg-color: #fdfaf3; 
 
@@ -30,8 +30,8 @@ html {
   form {
       display: block;
       width: 100%;
-      max-width: 400px;
-      background-color: #fff;
+      max-width: 500px;
+      background-color: #f8f0dd;
       margin: 0;
       padding: 2.25em;
       box-sizing: border-box;
