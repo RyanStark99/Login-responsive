@@ -3,7 +3,7 @@
     --black:#13131a;
     --bg:#010103;
     --border: .1rem solid rgba(255,255,255,.3);
-    --bg-color: #fdfaf3;
+    --bg-color: #fdfaf3; 
 
 }
 
@@ -98,7 +98,6 @@ html {
       background-color: var(--bg-color);
       border: solid 2px var(--main-color);
       border-radius: 4px;
-      -webkit-appearance: none;
       box-sizing: border-box;
       width: 100%;
       height: 65px;
