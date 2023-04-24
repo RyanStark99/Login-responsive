@@ -211,3 +211,10 @@ html {
   form .inputGroup2 #showPasswordToggle input:disabled ~ .indicator:after {
       visibility: hidden;
   }
+
+.Hi h3{
+    font-size: 1.2rem;
+    text-transform: none;
+    color: var(--main-color);
+    text-align: center;
+}
